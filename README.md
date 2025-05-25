@@ -46,9 +46,9 @@ Hey there! I'm **ZAKIR BAGHIROV**, a passionate Computer Engineering students wh
 ---
 
 ### 🚀 **Featured Projects**
-- 🔧 **MİTDDoS**: Built a real-time data and charging system integrated with Kafka and Hazelcast.
+- 🔧 **MİTDDoS**: 
 - 👩‍⚕ **GulDiyet App**: Designed a diet and nutrition app with SignalR, RabbitMQ, and ASP.NET Core.
-- 🥗 **Nutri Yemek**: Developed Python-based image processing tools with OpenCV and NumPy.
+- 🥗 **Nutri Yemek**:
 
 ---
 
