@@ -1,4 +1,11 @@
+<h1 align="center">🚀 Welcome to ZAKIR BAGHIROV's World 🌟</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600">
+</p>
+
 <h3 align="center">🌟 Computer Engineer | Software Developer | Cybersecurity Enthusiast 🌟</h3>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
