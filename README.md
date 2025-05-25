@@ -38,9 +38,9 @@ Hey there! I'm **ZAKIR BAGHIROV**, a passionate Computer Engineering students wh
 
 ### 🌐 **Find Me Online**
 <p align="left">
-<a href="https://www.linkedin.com/in/zakir-baghirov-ab4873233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakir baghirov" height="30" width="40" /></a>
-<a href="https://www.facebook.com/zakir.bagirov.73345?locale=tr_TR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakir bagirov" height="30" width="40" /></a>
-<a href="https://www.instagram.com/zakirrbagirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaki̇rrbagi̇rov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakir-baghirov-ab4873233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakir baghirov" height="40" width="50" /></a>
+<a href="https://www.facebook.com/zakir.bagirov.73345?locale=tr_TR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakir bagirov" height="40" width="50" /></a>
+<a href="https://www.instagram.com/zakirrbagirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaki̇rrbagi̇rov" height="40" width="50" /></a>
 </p>
 
 ---
