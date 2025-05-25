@@ -46,11 +46,9 @@ Hey there! I'm **ZAKIR BAGHIROV**, a passionate Computer Engineering students wh
 ---
 
 ### 🚀 **Featured Projects**
-- 🩻 **MİTDDoS**: A cross-platform multi-threaded DDoS attack simulator built with C#, .NET MAUI, and Task Parallel Library (TPL). It uses TcpClient and NetworkStream to simulate distributed attacks, directing each thread to CPU cores for efficient load distribution and real-time feedback via UI.
-  
+- 🩻 ***MİTDDoS***: A cross-platform multi-threaded DDoS attack simulator built with C#, .NET MAUI, and Task Parallel Library (TPL). It uses TcpClient and NetworkStream to simulate distributed attacks, directing each thread to CPU cores for efficient load distribution and real-time feedback via UI.
 - 👩‍⚕ ***GulDiyet***: Designed a diet and nutrition app with SignalR, RabbitMQ, and ASP.NET Core.
-  
-- 🥗 **NutriYemek**: This mobile application, developed using Flutter and Dart, allows users to filter dishes according to their health needs and admins to manage food and restaurant information.
+- 🥗 ***NutriYemek***: This mobile application, developed using Flutter and Dart, allows users to filter dishes according to their health needs and admins to manage food and restaurant information.
 
 ---
 
